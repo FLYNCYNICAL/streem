@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FLYNCYNICAL/streem/main/mk.lua"))()
+Aiming.TargetPart = {"Head", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
+Aiming.FOV = 8.9
+Aiming.FOVSides = 300
+Aiming.HitChance = 100
+Aiming.ShowFOV = false
